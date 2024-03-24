@@ -1,1 +1,1 @@
-# resolvendo-cogidos-gt
+# resolvendo-cogidos-gpt
